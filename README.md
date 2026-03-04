@@ -18,3 +18,9 @@
 /_.___/\__, /  /_/ /_/\___/_/|_|\____/_/   \__,_/   /____/\____/_/  \__/ |__/|__/\____/_/  /_/|_/____/  
       /____/                                                                                            
 ```
+
+## Credits  
+Void @ Founder & Main Dev  
+Sharky @ Founder & Secondary Dev
+
+© Hexora Softworks™ & © VoidScripts™
